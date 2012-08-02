@@ -1,4 +1,4 @@
 subal
 =====
 
-Spring Exapmles
+JAVA BASED CONFIGURATION SPRING MVC EXAMPLE.
